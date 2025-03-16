@@ -1,6 +1,6 @@
 # MongoDB Example Helm Chart
 
-This repository contains a Helm chart for deploying MongoDB. The chart is hosted on GitHub Pages at [mongodb.jotamario.lat](https://mongodb.jotamario.lat).
+This repository contains a Helm chart for deploying MongoDB. The chart is hosted on GitHub Pages at [mongodb-charts.jotamario.lat/ ](https://mongodb-charts.jotamario.lat/ ).
 
 ## Prerequisites
 
