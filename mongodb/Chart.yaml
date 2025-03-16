@@ -1,0 +1,5 @@
+apiVersion: v2
+name: quizapp-mongodb
+description: A Helm chart for MongoDB deployment
+version: 0.1.0
+appVersion: "4.4"
