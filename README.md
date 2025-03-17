@@ -1,6 +1,6 @@
 # MongoDB Example Helm Chart
 
-This repository contains a Helm chart for deploying MongoDB. The chart is hosted on GitHub Pages at [mongodb-charts.jotamario.lat/ ](https://mongodb-charts.jotamario.lat/ ).
+This repository contains a Helm chart for deploying MongoDB. The chart is hosted on GitHub Pages at [https://mongodb.charts.jotamario.lat/ ](https://mongodb.charts.jotamario.lat/).
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ This repository contains a Helm chart for deploying MongoDB. The chart is hosted
 To install the chart with the release name `my-release`:
 
 ```bash
-helm repo add quizapp-mongodb https://mongodb.jotamario.lat
+helm repo add quizapp-mongodb https://mongodb.charts.jotamario.lat/
 helm repo update
 helm install my-release quizapp-mongodb/quizapp-mongodb
 ```
